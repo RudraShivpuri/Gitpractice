@@ -1,0 +1,6 @@
+*.log
+*.error
+/di/
+-->for ignoring the outer one thnak you
+di/
+-->for all ignoring .
